@@ -7,4 +7,4 @@
 
 
 ## 开发
-- nssm: exe封装为windows服务
+- [nssm](http://www.nssm.cc/download): exe封装为windows服务
