@@ -8,6 +8,7 @@
 
 ## 开发
 - [nssm](http://www.nssm.cc/download): exe封装为windows服务
+- [Process Explorer](https://docs.microsoft.com/zh-cn/sysinternals/downloads/process-explorer): 查看进程信息，包括线程、内核对象、互斥体信号量等
 
 ## 学习
 - [收趣](http://shouqu.me/): 云端笔记收藏，稍后阅读app
