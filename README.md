@@ -13,3 +13,6 @@
 ## 学习
 - [收趣](http://shouqu.me/): 云端笔记收藏，稍后阅读app
 - [微信读书](http://weread.qq.com/): 特别方便的做标注、笔记和分享，还能跟微信好友及所有共同阅读该书的书友基于内容进行定点讨论交流
+
+## 日常
+- [PilotEdit](http://www.pilotedit.com/index.html): 大文件快速打开、编辑和比对利器
