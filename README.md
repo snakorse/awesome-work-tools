@@ -16,4 +16,4 @@
 
 ## 日常
 - [PilotEdit](http://www.pilotedit.com/index.html): 大文件快速打开、编辑和比对利器
-- [Wox](http://www.wox.one/): 系统程序快捷启动、命令快捷执行、文件快速查找利器，类似Max下的Alfred
+- [Wox](http://www.wox.one/): 系统程序快捷启动、命令快捷执行、文件快速查找利器，类似Mac下的Alfred
