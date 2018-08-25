@@ -18,3 +18,4 @@
 - [PilotEdit](http://www.pilotedit.com/index.html): 大文件快速打开、编辑和比对利器
 - [Wox](http://www.wox.one/): 系统程序快捷启动、命令快捷执行、文件快速查找利器，类似Mac下的Alfred
 - [Impressionist](https://github.com/henrikingo/impressionist): 可视化创建强大的3D浏览器展示文档
+- [MyScript Calculator](https://www.myscript.com/zh-hans/calculator/): 强大的手写公式计算器App
