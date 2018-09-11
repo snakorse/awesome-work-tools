@@ -22,3 +22,4 @@
 - [Impressionist](https://github.com/henrikingo/impressionist): 可视化创建强大的3D浏览器展示文档
 - [MyScript Calculator](https://www.myscript.com/zh-hans/calculator/): 强大的手写公式计算器App
 - [Briss](https://sourceforge.net/projects/briss/): 好用的pdf文件切边工具
+- [速盘](https://www.speedpan.com): 度盘神器，无需登录和提取密码，且速度超越SVIP会员
