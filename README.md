@@ -4,6 +4,7 @@
 ---
 ## 设计
 - [Balsamiq Mockups](https://balsamiq.com/download/): UI草图设计工具
+- [ASCIIFlow](http://asciiflow.com/): 很流畅的ASCII流程图工具，适合在代码里贴字符图
 
 
 ## 开发
