@@ -17,6 +17,7 @@
 - [收趣](http://shouqu.me/): 云端笔记收藏，稍后阅读app
 - [微信读书](http://weread.qq.com/): 特别方便的做标注、笔记和分享，还能跟微信好友及所有共同阅读该书的书友基于内容进行定点讨论交流
 - [微习惯](http://www.appving.com/): 一款界面简约的微习惯记录养成App
+- [掘金酱](https://e.xitu.io/): 一个信息聚合网站，包括github热门项目、掘金博客园等当前热门文章等，适合设置为浏览器主页
 
 ## 日常
 - [PilotEdit](http://www.pilotedit.com/index.html): 大文件快速打开、编辑和比对利器
