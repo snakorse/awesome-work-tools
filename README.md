@@ -30,3 +30,4 @@
 - [速盘](https://www.speedpan.com): 度盘神器，无需登录和提取密码，且速度超越SVIP会员
 - [ToDoList](https://www.codeproject.com/Articles/5371/ToDoList-An-effective-and-flexible-way-to-keep-on): 自用多年的非常适合soho程序员管理跟踪项目的任务管理工具
 - [ScreenToGif](https://www.screentogif.com/): 录制gif动画，但这还不止，更重要的是可以做后期处理，比如在某些帧上做标注
+- [ShareX](https://github.com/ShareX/ShareX/): 一款软件，满足你所有的截图需求
