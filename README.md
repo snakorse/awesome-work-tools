@@ -15,6 +15,7 @@
 - [Regexbuddy](http://www.regexbuddy.com/): 强大的多语言正则编写、分析、调试工具
 - [BareTail](http://www.baremetalsoft.com/baretail/): 方便的实时监控查看文件变动内容的好工具，类似linux下的tail
 - [ILMerge](https://github.com/dotnet/ILMerge): 将.net程序的一堆.dll依赖打包进一个exe的工具
+- [Sourcetrail](https://www.sourcetrail.com/): 可视化的浏览代码结构和逻辑，研究别人的代码时比较有用
 
 ## 学习
 - [收趣](http://shouqu.me/): 云端笔记收藏，稍后阅读app
