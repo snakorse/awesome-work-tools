@@ -17,6 +17,7 @@
 - [ILMerge](https://github.com/dotnet/ILMerge): 将.net程序的一堆.dll依赖打包进一个exe的工具
 - [Sourcetrail](https://www.sourcetrail.com/): 可视化的浏览代码结构和逻辑，研究别人的代码时比较有用
 - [OpenWrite](https://openwrite.cn/): 一款支持一文多发、适合IT技术文章的在线创作工具
+- [Chocolatey](https://chocolatey.org/): windows下的包管理工具，类似apt-get，同类软件还有Scoop
 
 ## 学习
 - [收趣](http://shouqu.me/): 云端笔记收藏，稍后阅读app
