@@ -35,3 +35,4 @@
 - [ScreenToGif](https://www.screentogif.com/): 录制gif动画，但这还不止，更重要的是可以做后期处理，比如在某些帧上做标注
 - [ShareX](https://github.com/ShareX/ShareX/): 一款软件，满足你所有的截图需求
 - [Sandboxie](https://www.sandboxie.com/): 经典沙箱环境，可以在其中运行不明软件，同时避免感染到主机
+- [Enounce MySpeed](http://www.enounce.com/myspeed): 一款神奇的在线音视频（如swf、flv等格式）播放速度控制工具，可以增加或降低网页内的音视频的播放速度，如需免费版请自行搜索
