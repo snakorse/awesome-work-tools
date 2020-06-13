@@ -18,6 +18,7 @@
 - [Sourcetrail](https://www.sourcetrail.com/): 可视化的浏览代码结构和逻辑，研究别人的代码时比较有用
 - [OpenWrite](https://openwrite.cn/): 一款支持一文多发、适合IT技术文章的在线创作工具
 - [Chocolatey](https://chocolatey.org/): windows下的包管理工具，类似apt-get，同类软件还有Scoop
+- [IISCrypto](https://www.nartac.com/Products/IISCrypto): 方便的设置ssl cipher suites的GUI工具
 
 ## 学习
 - [收趣](http://shouqu.me/): 云端笔记收藏，稍后阅读app
