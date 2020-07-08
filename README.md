@@ -39,3 +39,4 @@
 - [Enounce MySpeed](http://www.enounce.com/myspeed): 一款神奇的在线音视频（如swf、flv等格式）播放速度控制工具，可以增加或降低网页内的音视频的播放速度，如需免费版请自行搜索
 - [迅雷极限精简版](https://kkocdko.github.io/post/20190724002221/): 迅雷9超级精简版，无广告
 - [FadeTop](http://www.fadetop.com/): 轻巧优雅的桌面定时提醒小工具
+- [AnyTXT Searcher](https://anytxt.net/): 本地全文搜索引擎，搜索文件内容
