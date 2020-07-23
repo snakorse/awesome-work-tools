@@ -36,7 +36,8 @@
 - [ScreenToGif](https://www.screentogif.com/): 录制gif动画，但这还不止，更重要的是可以做后期处理，比如在某些帧上做标注
 - [ShareX](https://github.com/ShareX/ShareX/): 一款软件，满足你所有的截图需求
 - [Sandboxie](https://www.sandboxie.com/): 经典沙箱环境，可以在其中运行不明软件，同时避免感染到主机
-- [Enounce MySpeed](http://www.enounce.com/myspeed): 一款神奇的在线音视频（如swf、flv等格式）播放速度控制工具，可以增加或降低网页内的音视频的播放速度，如需免费版请自行搜索
+- [Enounce MySpeed](http://www.enounce.com/myspeed): 一款神奇的在线音视频（如swf、flv等格式）播放速度控制工具（仅支持IE），可以增加或降低网页内的音视频的播放速度，如需免费版请自行搜索
+- [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/jfkkmeigeboahkopaglcaoilldlnlgbi): 另一款适用于chrome的倍速播放扩展插件
 - [迅雷极限精简版](https://kkocdko.github.io/post/20190724002221/): 迅雷9超级精简版，无广告
 - [FadeTop](http://www.fadetop.com/): 轻巧优雅的桌面定时提醒小工具
 - [AnyTXT Searcher](https://anytxt.net/): 本地全文搜索引擎，搜索文件内容
